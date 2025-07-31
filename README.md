@@ -1,6 +1,3 @@
 # 📔 The Daily Vocab 
 
-<p align="center">
- <img src="M:\Screenshots\Screenshot (8).png"
-alt="Accountability" width="300"/>
-</p>
+![my screenshot] (<img width="1342" height="651" alt="Image" src="https://github.com/user-attachments/assets/15a611b7-2ae7-4c03-9886-e890f63a4e73" />)
