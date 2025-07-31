@@ -1,3 +1,3 @@
 # 📔 The Daily Vocab 
 
-![Alt](https://thedailyvocab.blogspot.com/2025/07/1-accountability.html)
+![Alt text]("M:\Screenshots\Screenshot (8).png")
